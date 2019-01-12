@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "QuestForTheHolyGrailGame", "QuestForTheHolyGrailGame\QuestForTheHolyGrailGame.shproj", "{CCFE842E-A170-475C-AFA1-AF3106788878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{DC0F7E53-0E77-4013-A6EA-7F08B2B237B0}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		QuestForTheHolyGrailGame\QuestForTheHolyGrailGame.projitems*{ccfe842e-a170-475c-afa1-af3106788878}*SharedItemsImports = 13
+		QuestForTheHolyGrailGame\QuestForTheHolyGrailGame.projitems*{dc0f7e53-0e77-4013-a6ea-7f08b2b237b0}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC0F7E53-0E77-4013-A6EA-7F08B2B237B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0F7E53-0E77-4013-A6EA-7F08B2B237B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0F7E53-0E77-4013-A6EA-7F08B2B237B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0F7E53-0E77-4013-A6EA-7F08B2B237B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F9E580-2632-4DDD-A9D7-DB66AB19D2CD}
+	EndGlobalSection
+EndGlobal
