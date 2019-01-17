@@ -12,3 +12,16 @@ C:\Repon\Git\questGame\QuestForTheHolyGrailGame\UnitTestProject\bin\Debug\Micros
 C:\Repon\Git\questGame\QuestForTheHolyGrailGame\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
 C:\Repon\Git\questGame\QuestForTheHolyGrailGame\UnitTestProject\obj\Debug\UnitTestProject.dll
 C:\Repon\Git\questGame\QuestForTheHolyGrailGame\UnitTestProject\obj\Debug\UnitTestProject.pdb
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\bin\Debug\UnitTestProject.dll
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\bin\Debug\UnitTestProject.pdb
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\obj\Debug\UnitTestProject.dll
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\UnitTestProject\obj\Debug\UnitTestProject.pdb

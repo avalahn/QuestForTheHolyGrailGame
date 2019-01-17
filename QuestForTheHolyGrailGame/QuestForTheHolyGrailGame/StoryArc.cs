@@ -8,6 +8,6 @@ namespace QuestForTheHolyGrailGame
     {
         public string name { get; private set; }
         public Game game { get; private set; }
-        private LinkedList<GameEvent> gameEvents;
+        private LinkedList<StoryEvent> storyEvents;
     }
 }

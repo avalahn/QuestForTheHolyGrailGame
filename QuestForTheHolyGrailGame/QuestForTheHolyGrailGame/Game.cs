@@ -8,7 +8,7 @@ namespace QuestForTheHolyGrailGame
     {
         public World world { get; private set; }
         public Hero hero { get; private set; }
-        public GameEvent currentEvent;
+        public StoryEvent currentEvent;
 
 
         public void Run()
@@ -17,7 +17,7 @@ namespace QuestForTheHolyGrailGame
             this.hero = new Hero();
 
             // Generate first game event
-            GameEvent ge = new GameEvent();
+            StoryEvent ge = new StoryEvent();
             this.currentEvent = ge;
         }
     }
