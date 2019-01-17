@@ -11,6 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGameUI", "SimpleGameU
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		QuestForTheHolyGrailGame\QuestForTheHolyGrailGame.projitems*{c2aa92ef-1c66-4100-b17b-613ea7cb7bcc}*SharedItemsImports = 4
 		QuestForTheHolyGrailGame\QuestForTheHolyGrailGame.projitems*{ccfe842e-a170-475c-afa1-af3106788878}*SharedItemsImports = 13
 		QuestForTheHolyGrailGame\QuestForTheHolyGrailGame.projitems*{dc0f7e53-0e77-4013-a6ea-7f08b2b237b0}*SharedItemsImports = 4
 	EndGlobalSection

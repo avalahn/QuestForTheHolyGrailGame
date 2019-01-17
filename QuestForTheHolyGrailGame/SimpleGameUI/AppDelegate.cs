@@ -2,11 +2,13 @@
 using Microsoft.Xna.Framework;
 using CocosSharp;
 using CocosDenshion;
+using QuestForTheHolyGrailGame;
 
 namespace SimpleGameUI
 {
     public class AppDelegate : CCApplicationDelegate
     {
+        private StoryEventLayer eventLayer;
 
         public override void ApplicationDidFinishLaunching(CCApplication application, CCWindow mainWindow)
         {
@@ -35,7 +37,9 @@ namespace SimpleGameUI
             }
 
             var scene = new CCScene(mainWindow);
-            var eventLayer = new StoryEventLayer();
+            eventLayer = new StoryEventLayer();
+
+            CreateGameData();
 
             scene.AddChild(eventLayer);
 
@@ -50,6 +54,17 @@ namespace SimpleGameUI
         public override void ApplicationWillEnterForeground(CCApplication application)
         {
             application.Paused = false;
+        }
+
+        private void CreateGameData()
+        {
+            StoryEvent storyevent = new StoryEvent("While tracking in the woods, you notice a deer with a broken leg.");
+            storyevent.reactionA = new Reaction("Try to help the animal");
+            storyevent.reactionB = new Reaction("Put it out of its misery");
+            storyevent.reactionC = new Reaction("We could use more food in our travels");
+            storyevent.reactionD = new Reaction("It would make a fine offering to our gods");
+
+            eventLayer.ShowStoryEvent(storyevent);
         }
     }
 }

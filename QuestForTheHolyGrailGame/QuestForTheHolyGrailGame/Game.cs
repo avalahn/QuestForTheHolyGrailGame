@@ -4,7 +4,7 @@ using System.Text;
 
 namespace QuestForTheHolyGrailGame
 {
-    class Game
+    public class Game
     {
         public World world { get; private set; }
         public Hero hero { get; private set; }
@@ -17,7 +17,7 @@ namespace QuestForTheHolyGrailGame
             this.hero = new Hero();
 
             // Generate first game event
-            StoryEvent ge = new StoryEvent();
+            StoryEvent ge = new StoryEvent("");
             this.currentEvent = ge;
         }
     }

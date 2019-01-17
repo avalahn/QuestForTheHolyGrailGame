@@ -4,7 +4,7 @@ using System.Text;
 
 namespace QuestForTheHolyGrailGame
 {
-    class StoryArc
+    public class StoryArc
     {
         public string name { get; private set; }
         public Game game { get; private set; }
