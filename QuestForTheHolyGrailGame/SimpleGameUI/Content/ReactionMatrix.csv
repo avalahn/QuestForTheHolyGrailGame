@@ -1,0 +1,37 @@
+Event;Reaction
+Encounter animal;Attack
+Encounter animal;Stare
+Encounter animal;Flee
+Encounter animal;Ignore
+Encounter animal;Capture
+ambushed;Attack
+ambushed;Flee
+ambushed;CounterDemand
+ambushed;CallHelp
+Pursued;Outrun
+Pursued;CallHelp
+Pursued;Hide
+Pursued;Bargain
+Pursued;Attack
+Travelling merchant;Steal
+Travelling merchant;Aid
+Travelling merchant;Kidnap
+Travelling merchant;Attack
+Argument;Argument1
+Argument;Argument2
+Argument;Argument3
+Argument;Argument4
+Witness attack;Ignore
+Witness attack;CallHelp
+Witness attack;Aid
+Witness attack;Capture
+Witness attack;Backstab
+Out of food;Steal
+Out of food;Attack
+Out of food;Bargain
+Out of food;Kidnap
+Out of food;Aid
+Drinking in a bar;DrinkMore
+Drinking in a bar;BarFight
+Drinking in a bar;OfferHelp
+Drinking in a bar;Attack

@@ -35,3 +35,7 @@ E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame
 E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\SimpleGameUI\obj\x86\Debug\SimpleGameUI.csproj.CopyComplete
 E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\SimpleGameUI\obj\x86\Debug\SimpleGameUI.exe
 E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\SimpleGameUI\obj\x86\Debug\SimpleGameUI.pdb
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\SimpleGameUI\bin\WindowsDX\Debug\Content\Reaction.csv
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\SimpleGameUI\bin\WindowsDX\Debug\Content\ReactionMatrix.csv
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\SimpleGameUI\bin\WindowsDX\Debug\Content\StoryEvent.csv
+E:\Jonatan\Programming\avalahn\QuestForTheHolyGrailGame\QuestForTheHolyGrailGame\SimpleGameUI\obj\x86\Debug\SimpleGameUI.csprojAssemblyReference.cache

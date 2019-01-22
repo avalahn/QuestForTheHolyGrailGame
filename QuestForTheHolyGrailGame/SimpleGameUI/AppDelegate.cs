@@ -3,6 +3,8 @@ using Microsoft.Xna.Framework;
 using CocosSharp;
 using CocosDenshion;
 using QuestForTheHolyGrailGame;
+using System.Collections.Generic;
+using System;
 
 namespace SimpleGameUI
 {
@@ -58,13 +60,20 @@ namespace SimpleGameUI
 
         private void CreateGameData()
         {
-            StoryEvent storyevent = new StoryEvent("While tracking in the woods, you notice a deer with a broken leg.");
-            storyevent.reactionA = new Reaction("Try to help the animal");
-            storyevent.reactionB = new Reaction("Put it out of its misery");
-            storyevent.reactionC = new Reaction("We could use more food in our travels");
-            storyevent.reactionD = new Reaction("It would make a fine offering to our gods");
+            List<StoryEvent> eventList = ContentReader.ReadCsvContent();
 
-            eventLayer.ShowStoryEvent(storyevent);
+            Random rnd = new Random();
+
+            int eventIndex = rnd.Next(0, 7);
+            eventLayer.ShowStoryEvent(eventList[eventIndex]);
+
+            //StoryEvent storyevent = new StoryEvent("While tracking in the woods, you notice a deer with a broken leg.");
+            //storyevent.reactionA = new Reaction("Try to help the animal");
+            //storyevent.reactionB = new Reaction("Put it out of its misery");
+            //storyevent.reactionC = new Reaction("We could use more food in our travels");
+            //storyevent.reactionD = new Reaction("It would make a fine offering to our gods");
+
+            //eventLayer.ShowStoryEvent(storyevent);
         }
     }
 }
